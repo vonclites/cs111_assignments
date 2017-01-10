@@ -12,7 +12,7 @@ Now, change your current directory to the new code directory by typing:
 ```bash
 cd code
 ```
-Within this directory, we will 'clone' a copy of the lab assignments repository. (You can also create other directories for other coding projects you may undertake.)
+Within this directory, we will 'clone' a copy of the lab assignments repository. (You can also create other directories here for other coding projects you may undertake.)
 
 Type
 ```bash
