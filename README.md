@@ -12,9 +12,8 @@ Now, change your current directory to the new code directory by typing:
 ```bash
 cd code
 ```
-Within this directory, we will create another folder specifically for our lab assignments by downloading this github repository. You can also create other directories for other coding projects you may undertake.
+Within this directory, we will 'clone' a copy of the lab assignments repository. (You can also create other directories for other coding projects you may undertake.)
 
-For now, let's download the cs111_assignments repository into the code directory. This process is called "cloning."
 Type
 ```bash
 git clone http://github.com/vonclites/cs111_assignments
