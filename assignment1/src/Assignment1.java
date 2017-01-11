@@ -1,12 +1,10 @@
-import java.util.Scanner;
-import java.io.FileNotFoundException;
-import java.io.IOException;
 import er_data.ERDataReader;
 import er_data.ERDataAnalyzer;
+import java.io.FileNotFoundException;
 
 public class Assignment1 {
 	public static void main(String[] args){
-		String dataFile = "/home/dom/code/cs111_assignments/assignment1/data/data1.txt";
+		String dataFile = "data/data1.txt";
 		
 		// You can assume the data file will have data for 4 weeks / 7 days / 24 hours 
 		final int NUM_WEEKS = 4;
