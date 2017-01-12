@@ -24,6 +24,6 @@ public class Assignment1 {
 		// (Check out https://www.mkyong.com/java/java-how-to-print-an-array/)
 		// If you want to test the ERDataReader but have not completed the ERDataAnalyzer functions, comment out the next two lines
 		int[] patientsPerWeek = ERDataAnalyzer.patientsPerWeek(data);
-		System.out.println("Patients per week: " + patientsPerWeek);
+		System.out.println("Patients per week: " + patientsPerWeek); // This won't work right. See link above
 	}
 }
