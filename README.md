@@ -1,7 +1,10 @@
 # cs111_assignments
 
-The following instructions will help you download the assignments to your computer and import the code into Eclipse
-**These instructions are for Ubuntu.** I may post additional instructions for other operating systems in the future.  In the mean time, you will have to Google it.
+The following instructions will help you download the assignments to your computer and import the code into Eclipse.
+
+**These instructions are for Ubuntu.** 
+
+I may post additional instructions for other operating systems in the future.  In the mean time, you will have to Google it.
 
 The version control system (VCS) 'git' comes pre-installed on the lab machines. If you are using your own machine, you can install git on Ubuntu by typing
 
