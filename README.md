@@ -1,5 +1,14 @@
 # cs111_assignments
 
+The following instructions will help you download the assignments to your computer and import the code into Eclipse
+**These instructions are for Ubuntu.** I may post additional instructions for other operating systems in the future.  In the mean time, you will have to Google it.
+
+The version control system (VCS) 'git' comes pre-installed on the lab machines. If you are using your own machine, you can install git on Ubuntu by typing
+
+```bash
+sudo apt-get install git
+```
+
 ## Download the assignments
 First, press Ctrl+ALT+T to open a terminal.
 
@@ -12,7 +21,9 @@ Now, change your current directory to the new code directory by typing:
 ```bash
 cd code
 ```
-Within this directory, we will 'clone' a copy of the lab assignments repository. (You can also create other directories here for other coding projects you may undertake.)
+Within this directory, we will 'clone' a copy of the lab assignments repository. (You can also create other directories here for other coding projects you may undertake.) 
+
+
 
 Type
 ```bash
