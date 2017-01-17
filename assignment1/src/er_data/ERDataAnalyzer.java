@@ -2,10 +2,16 @@ package er_data;
 
 
 public class ERDataAnalyzer {
-	// private methods here
-	// If you find yourself writing the same code over and over, 
-	// consider creating a private method which you can call instead.
 	
+	
+	/** 
+	 * If you find yourself writing the same code over and over, 
+	 * consider creating a private method which you can call instead.
+	 */
+	
+	// private methods here
+
+	25
 	/**
 	 * Returns the total number of patients for each week
 	 * 
